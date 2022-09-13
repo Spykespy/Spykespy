@@ -2,7 +2,7 @@
 
 #### Currently
 - 💼 Lead Developer @ GRP
-- 📕 Studying Software Development
+- 📕 Studying Software Development & Mechanical Engineering
 
 #### About
 - 🛠️ Most used languages: `C++`, `C#`, `LUA`
